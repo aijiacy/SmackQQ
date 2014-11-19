@@ -1,0 +1,17 @@
+1:查询接口；  jid=xxxxxxxx;
+http://zyun168.com/jeecg/imUserInfoExtendJsonController.do?datagrid&field=id,jid,nick,headImg,six,expImg,signStr,&page=1&rows=10&jid=111
+
+性别 ；  男 0； 女 1
+
+2:
+http://zyun168.com/jeecg/imUserInfoExtendJsonController.do?doAdd&expImg=22&headImg=222&id=&jid=222&nick=222&signStr=222&six=0
+
+
+{"jsonStr":"{\"msg\":\"IM用户信息扩展添加成功\",\"success\":true}","jsonId":"{\"attributes\":{},\"msg\":\"IM用户信息扩展添加成功\",\"success\":true}","success":true,"msg":"IM用户信息扩展添加成功","attributes":{},"obj":null}
+
+nick=%E4%B8%AD%E6%96%87  ； 中文 需要编码处理。 
+
+3:更新
+http://zyun168.com/jeecg/imUserInfoExtendController.do?doUpdate&expImg=444&headImg=444&id=0001e3234733228d01473328dc1a0005&jid=333&nick=%E4%B8%AD%E6%96%87111&signStr=444&six=0
+
+http://www.uyghurche.com/

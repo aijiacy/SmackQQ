@@ -1,0 +1,9 @@
+中文 	zh 	英语 	en
+日语 	jp 	韩语 	kor
+西班牙语 	spa 	法语 	fra
+泰语 	th 	阿拉伯语 	ara
+俄罗斯语 	ru 	葡萄牙语 	pt
+粤语 	yue 	文言文 	wyw
+白话文 	zh 	自动检测 	auto 
+
+http://openapi.baidu.com/public/2.0/bmt/translate?client_id=F8stkIn68UgFlyWSKTg1zKi5&q=today&from=auto&to=auto
