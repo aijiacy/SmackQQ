@@ -13,8 +13,8 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<commons-lang3.version>3.2</commons-lang3.version>
-		<httpcore.version>4.2.2</httpcore.version>
-		<httpmime.version>4.2.3</httpmime.version>
+		<httpcore.version>4.3.5</httpcore.version>
+		<httpmime.version>4.3.6</httpmime.version>
 		<httpclient.version>4.3.6</httpclient.version>
 		<httpasyncclient.version>4.0-beta3</httpasyncclient.version>
 		<json.version>20090211</json.version>
